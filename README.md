@@ -1,2 +1,2 @@
-# Perform analysis of Kickstarter to unconver trends
+# Perform analysis of Kickstarter to uncover trends
 
