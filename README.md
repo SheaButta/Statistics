@@ -1,2 +1,2 @@
 # Perform analysis of Kickstarter to unconver trends
-I have completed visualizationa and so on......
+
