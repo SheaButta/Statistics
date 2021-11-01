@@ -47,14 +47,14 @@ The Excel Year() function was used to capture the year "only" from the "Date Cre
 * There are more successful campaign outcomes than failed and canceled outcomes
 * There was a spike of successful campaign outcomes in May
 
-- A distint conclusion about the Outcomes based on goals:
+### A distint conclusion about the Outcomes based on goals:
 * The goals in the range of 45000 to 49999 failed 100% of the time.
 
-- Some limitations of the this dataset include;
+### Some limitations of the this dataset include;
 * The "name" and "blurb" columns seems to suggest a campaign name and description; however, the data for does not appear to be accurate.  This information
 would seem to deliver a more description about the campaigns and offer a different story.
 
-- Some other possible tables and/or graphs are;
+### Some other possible tables and/or graphs are;
 * A Line chart of the "ALL" Parent Categories to visualize their outcomes.
 * A Pie chart of the top five (5) successful Parent Categories.
 * A Line chart of the "ALL" Parent Categories to visualize their their goals.
