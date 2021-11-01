@@ -43,7 +43,7 @@ The Excel Year() function was used to capture the year "only" from the "Date Cre
 
 ## Results
 
-- Two (2) conclusions can be drawn about the Outcomes based on Launch Date:
+### Two (2) conclusions can be drawn about the Outcomes based on Launch Date:
 * There are more successful campaign outcomes than failed and canceled outcomes
 * There was a spike of successful campaign outcomes in May
 
